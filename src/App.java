@@ -1,7 +1,6 @@
 import java.util.Scanner;
 import network.SocialNetwork;
 import models.User;
-import models.Publication;
 import structures.SinglyLinkedList;
 
 public class App {
