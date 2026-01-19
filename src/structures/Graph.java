@@ -1,7 +1,5 @@
 package structures;
 
-import java.util.*;
-
 public class Graph<T> {
     private DoublyLinkedList<T> vertices;
     private DoublyLinkedList<Edge<T>> edges;
